@@ -1,7 +1,7 @@
 {
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
-  "autoStart": false,
+  "autoStart": true,
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
@@ -36,12 +36,12 @@
       "tabReloadIntervalSeconds": 28
     },
     {
-      "url": "https://app.powerbi.com/groups/4283be01-5bdc-4279-9177-046c193c6d70/reports/b3260e6e-3af4-4d5d-a3e5-32f0dd44a0d3/ReportSection?bookmarkGuid=Bookmark75616d943e7de2705944chromeless=true",
+      "url": "https://app.powerbi.com/groups/4283be01-5bdc-4279-9177-046c193c6d70/reports/b3260e6e-3af4-4d5d-a3e5-32f0dd44a0d3/ReportSection?chromeless=true&bookmarkGuid=Bookmarkbb6d13a14a47dec1208a&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 28
     },
     {
-      "url": "https://app.powerbi.com/groups/4283be01-5bdc-4279-9177-046c193c6d70/reports/b3260e6e-3af4-4d5d-a3e5-32f0dd44a0d3/ReportSectionedc8b0183cb210ce8c60?bookmarkGuid=Bookmark09a2739b126b07a2c272chromeless=true",
+      "url": "https://app.powerbi.com/groups/4283be01-5bdc-4279-9177-046c193c6d70/reports/b3260e6e-3af4-4d5d-a3e5-32f0dd44a0d3/ReportSectionedc8b0183cb210ce8c60?bookmarkGuid=Bookmark09a2739b126b07a2c272&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 28
     }, 
